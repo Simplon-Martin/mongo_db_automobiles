@@ -1,0 +1,71 @@
+[{
+  "_id": {
+    "$oid": "6094637be6d9430a08cde728"
+  },
+  "Marque": "Ferrari",
+  "Modèle": "F40",
+  "Dénomination": "Testarossa",
+  "Cylindrée": 2936,
+  "Couleur": "Rouge",
+  "Propriétaire": "Valerio"
+},{
+  "_id": {
+    "$oid": "6094637be6d9430a08cde729"
+  },
+  "Marque": "Lamborghini",
+  "Modèle": "Countach",
+  "Dénomination": "",
+  "Cylindrée": 5167,
+  "Couleur": "Jaune",
+  "Propriétaire": "Rafik"
+},{
+  "_id": {
+    "$oid": "6094637be6d9430a08cde72a"
+  },
+  "Marque": "De Tomaso",
+  "Modèle": "Pantera",
+  "Dénomination": "",
+  "Cylindrée": 5800,
+  "Couleur": "Noir",
+  "Propriétaire": "Rafik"
+},{
+  "_id": {
+    "$oid": "6094637be6d9430a08cde72b"
+  },
+  "Marque": "Pontiac",
+  "Modèle": "Firebird",
+  "Dénomination": "KITT",
+  "Cylindrée": 5700,
+  "Couleur": "Noir",
+  "Propriétaire": "Valerio"
+},{
+  "_id": {
+    "$oid": "6094637be6d9430a08cde72d"
+  },
+  "Marque": "Ford",
+  "Modèle": "Mustang",
+  "Dénomination": "Eleanor",
+  "Cylindrée": 7000,
+  "Couleur": "Gris",
+  "Propriétaire": "Rafik"
+},{
+  "_id": {
+    "$oid": "6094637be6d9430a08cde72e"
+  },
+  "Marque": "Chevrolet",
+  "Modèle": "Corvette",
+  "Dénomination": "Lola",
+  "Cylindrée": 5400,
+  "Couleur": "Rouge",
+  "Propriétaire": "Valerio"
+},{
+  "_id": {
+    "$oid": "6094637be6d9430a08cde730"
+  },
+  "Marque": "Dodge",
+  "Modèle": "Charger",
+  "Dénomination": "General Lee",
+  "Cylindrée": 7206,
+  "Couleur": "Orange",
+  "Propriétaire": "Rafik"
+}]
